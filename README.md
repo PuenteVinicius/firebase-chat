@@ -14,25 +14,24 @@ Firebase é uma plataforma gigantesca que nos permite criar várias aplicações
 
 # Rodando o projeto
 
-- Instale globalmente o firebase-tools
-    
-    npm -g install firebase-tools
+Instale globalmente o firebase-tools
 
-- Verifique se a CLI foi instalada corretamente
-    
-    firebase --version
+	npm -g install firebase-tools
 
-- Realize o login
-    
-    firebase login
+Verifique se a CLI foi instalada corretamente
 
-- Associe o projeto a uma aplicação no firebase [saiba mais](https://codelabs.developers.google.com/codelabs/firebase-web/#2)
-    
-    firebase use --add
+	firebase --version
 
-- Prontinho, agora é só rodar o projeto localmente :kissing_closed_eyes:
+Realize o login
 
-    firebase serve --only hosting
+	firebase login
+
+Associe o projeto a uma aplicação no firebase [saiba mais](https://codelabs.developers.google.com/codelabs/firebase-web/#2)
+  
+  	firebase use --add
+
+Prontinho, agora é só rodar o projeto localmente :kissing_closed_eyes:
+  firebase serve --only hosting
 
 # Referências 
 
