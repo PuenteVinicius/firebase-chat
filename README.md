@@ -14,6 +14,6 @@ Firebase é uma plataforma gigantesca que nos permite criar várias aplicações
 
 # Referências 
 
-- [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/.
-- [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
-- [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/).
+- [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/)
+- [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/)
+- [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/)
