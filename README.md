@@ -31,6 +31,7 @@ Associe o projeto a uma aplicação no firebase [saiba mais](https://codelabs.de
   	firebase use --add
 
 Prontinho, agora é só rodar o projeto localmente :kissing_closed_eyes:
+  
   firebase serve --only hosting
 
 # Referências 
