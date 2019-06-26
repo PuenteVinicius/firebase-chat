@@ -6,6 +6,8 @@ Curso basesado no [Firebase Web Codelab](https://codelabs.developers.google.com/
 
 Firebase é uma plataforma gigantesca que nos permite criar várias aplicações com diferentes propósitos, neste curso iremos aprender como criar chat simples utilizando firebase :blush: :computer: :email:
 
+[Slides do curso](https://docs.google.com/presentation/d/1ENBREC5Z7w3A6jLzkxH85JW5wIbM69FXW2MSphn1Cec/edit?usp=sharing)
+
 # Requisitos para o curso
 
 - Ter instalado versões mais recentes e estáveis do [Node.js](https://nodejs.org/en/)
